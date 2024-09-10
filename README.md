@@ -2,7 +2,7 @@
 Ce projet est une plateforme de test que nous développons dans un esprit décontracté. Il nous permet d'expérimenter diverses idées et fonctionnalités. Le site est actuellement en phase de développement préliminaire et n'est pas destiné à une utilisation intensive. Cependant, des versions plus abouties seront réalisées lorsque nous déciderons d'investir davantage dans le projet.
 
 ## Objectif
-Notre objectif est simple : tester, apprendre et améliorer nos compétences en développement web. Nous croyons que chaque projet, même modeste, est une étape essentielle vers de plus grandes réalisations.
+Notre objectif est simple : tester, apprendre et améliorer nos compétences en développement web tout en s'amusant. Nous croyons que chaque projet, même modeste, est une étape essentielle vers de plus grandes réalisations.
 
 ## État Actuel
 Le site est en cours de développement avec des fonctionnalités basiques. Il nous sert de terrain d'expérimentation. Nos connaissances évoluent, et ce projet évoluera en parallèle.
